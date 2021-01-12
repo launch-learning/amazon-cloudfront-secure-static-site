@@ -1,0 +1,120 @@
+[
+	{
+		"name": "How High is Your Healthy Eating IQ?",
+		"description": "How much do you *really know* about healthy eating?\n\nTake this short interactive quiz to test your knowledge and access resources to help you achieve a healthy balanced diet.",
+		"thumbnail": "https://courses.launchlearning.io/nutrition/veg.png",
+		"url": "https://courses.launchlearning.io/nutrition/1.0.1/index_lms.html",
+		"activityId": "https://courses.launchlearning.io/nutrition",
+		"tags": [
+			"nutrition",
+			"health"
+		],
+		"author": {
+			"name": "Sara Donald",
+			"website": "http://example.com"
+		}
+	},
+	{
+		"name": "An Introduction to Running",
+		"description": "Running is an amazing form of exercise which you can do anywhere, it burns more calories than any other mainstream exercise and it's free.\n\nRegular running can boost your mood and keep your weight under control, as well as reduce your risk of illnesses such as heart disease and type 2 diabetes.\n\nThis guide is designed to make running a safe and enjoyable experience for beginners. It provides a six week plan with different levels of intensity, tips on how to stay motivated, and advice on shoes and nutrition.",
+		"thumbnail": "https://courses.launchlearning.io/running/running.png",
+		"url": "https://courses.launchlearning.io/running/1.0.0/index_lms.html",
+		"activityId": "https://courses.launchlearning.io/running",
+		"tags": [
+			"running",
+			"fitness",
+			"health"
+		],
+		"author": {
+			"name": "Thomas Turrell-Croft",
+			"website": "https://launchlearning.io",
+			"image": "https://s.gravatar.com/avatar/02dd2b0faa9291fde09ee93358d36313?s=160"
+		}
+	},
+	{
+		"name": "Yoga For Strength",
+		"description": "Yoga is an ancient form of exercise that focuses on strength, flexibility and breathing to boost physical and mental wellbeing. Postures form the main components and are designed to increase strength and flexibility. \n\nThis course builds upon basic yoga techniques to increase all over strength and flexibility. Using your own body weight, poses such as plank and dolphin push-ups will build and tone muscles throughout the body. \n\nThis course takes you through twenty strength building poses and includes video instructions for each. Advanced options are given for poses to progress to as your technique improves.",
+		"thumbnail": "https://courses.launchlearning.io/yoga/Yoga.png",
+		"url": "https://courses.launchlearning.io/yoga/1.0.0/index_lms.html",
+		"activityId": "https://courses.launchlearning.io/yoga",
+		"tags": [
+			"yoga",
+			"fitness",
+			"health"
+		],
+		"author": {
+			"website": "http://example.com"
+		}
+	},
+	{
+		"name": "Pilates for Beginners",
+		"description": "Pilates is a method of exercise that consists of balance, flexibility, muscular strength and endurance movements.\n\nPilates focuses on proper postural alignment, core strength and muscle balance. Pilates strengthens the body in an even way, with emphasis on core strength to improve general fitness and wellbeing.\n\nThis Introduction to Pilates course is made up of extremely gentle and slow-paced classes making it ideal for people who are completely new to Pilates or have a low fitness level.\n\nThe low-impact workout created by fitness experts is 45 minutes long and includes clear explanations with different variations of each exercises. It is recommended to do the routine 2-3 times per week to gradually improve strength, flexibility and fitness.",
+		"thumbnail": "https://courses.launchlearning.io/pilates/pilates.png",
+		"url": "https://courses.launchlearning.io/pilates/1.0.0/index_lms.html",
+		"activityId": "https://courses.launchlearning.io/pilates",
+		"tags": [
+			"pilates",
+			"fitness",
+			"health"
+		],
+		"author": {
+			"name": "Juliette Fenton"
+		}
+	},
+	{
+		"name": "Train Your Brain to Fall Asleep",
+		"description": "It is easy to underestimate the importance of sleep, Sleep is just as important as a healthy diet & adequate exercise.\n\nDuring the first few hours of sleep your body restores itself and then your brain restores itself. If you have difficulty falling asleep, a regular bedtime routine will help you wind down and prepare for bed. In addition, training your brain to sleep better can help eliminate sleep problems and help you feel refreshed for the day ahead.\n\nThis interactive course will help identify what may be contributing your sleep issues. By answering a series of questions you will develop a custom sleep therapy program that uses brain-training to help improve your sleep.\n\nIdentify what sleep success looks like for you and learn several techniques to train your brain.\n\nPeople photo created by [@jcomp](https://www.freepik.com/jcomp).",
+		"thumbnail": "https://courses.launchlearning.io/sleeping/sleep.png",
+		"url": "https://courses.launchlearning.io/sleeping/1.0.0/index_lms.html",
+		"activityId": "https://courses.launchlearning.io/sleeping",
+		"tags": [
+			"sleep",
+			"health"
+		]
+	},
+	{
+		"name": "Reducing Stress Through Deep Breathing",
+		"description": "Deep breathing enables more air to flow into your body and can help calm your nerves, reducing stress and anxiety. Deep breathing instead involves taking slower, longer breaths from your stomach to rather than short, rapid breaths that you default to when stressed or anxious.\n\nThere are many different ways to breathe deeply. This course teaches several calming breathing routines for stress and anxiety which all take just a few minutes and can be done anywhere.\n\nTry the routines to see which is right for you and use it regularly as part of your daily routine for the greatest benefit.",
+		"thumbnail": "https://courses.launchlearning.io/breathe/breathe.png",
+		"url": "https://courses.launchlearning.io/breathe/1.0.0/index_lms.html",
+		"activityId": "https://courses.launchlearning.io/breathe",
+		"tags": [
+			"breathing",
+			"stress",
+			"health"
+		]
+	},
+	{
+		"name": "Object Oriented Programming in PHP",
+		"description": "PHP is a popular general-purpose scripting language that is especially suited to web development. Learn how to use PHP to create anything from a simple blog to a powerful website.\n\nLearn PHP object oriented programming with simple code examples, exercises and assignments. Gain a better understanding of PHP and how to apply it in your own project. Gain a better understanding PHP design patterns.\n\nImplement OOP Concepts like:\n\n* Inheritance\n* Polymorphism\n* Data Encapsulation\n\nLearn the advanced PHP techniques like anonymous and recursive functions.\n\nLearn how to write modular and reusable code using OOP Concepts. Understand to how to write classes, interfaces and abstract classes. Learn to use private, final, static, public and protected keywords.",
+		"thumbnail": "https://courses.launchlearning.io/php/PHP3.png",
+		"url": "https://courses.launchlearning.io/php/1.0.0/index_lms.html",
+		"activityId": "https://courses.launchlearning.io/php",
+		"tags": [
+			"php",
+			"programming"
+		]
+	},
+	{
+		"name": "The Complete Guide to Angular",
+		"description": "Angular is a popular Javascript front-end frameworks by Google that allows you to build a modern e-commerce web application as well as a single page web application that runs in a browser. It uses TypeScript programming language which facilitates writing better code and is also highly scalable and performant.\n\nThis complete guide to the latest version of Angular does not require any previous knowledge of Angular and will progress you onto advanced techniques.\n\nYou will learn to:\n\n* develop modern, complex, responsive and scalable web applications with Angular\n* gain an understanding of the architecture behind an Angular application and how to use it\n* build real-world Angular applications on your own\n* troubleshoot common errors\n* master best practices to write clean and elegant code",
+		"thumbnail": "https://courses.launchlearning.io/angular/angular.png",
+		"url": "https://courses.launchlearning.io/angular/1.0.0/index_lms.html",
+		"activityId": "https://courses.launchlearning.io/angular",
+		"tags": [
+			"angular",
+			"programming"
+		]
+	},
+	{
+		"name": "Getting Started with Python",
+		"description": "Python is one of the most accessible programming languages due to its simple, easy to learn syntax which emphasizes readability and therefore reduces the cost of program maintenance.\n\nThis course is a good introduction to the Python programming language and fundamental programming concepts.\n\nYou'll learn how to:\n\n* install Python and write your first program\n* use variables to store, retrieve and calculate information\n* utilize core programming tools such as functions and loops",
+		"thumbnail": "https://courses.launchlearning.io/python/python.png",
+		"url": "https://courses.launchlearning.io/python/1.0.0/index_lms.html",
+		"activityId": "https://courses.launchlearning.io/python",
+		"tags": [
+			"python",
+			"programming"
+		]
+	}
+]

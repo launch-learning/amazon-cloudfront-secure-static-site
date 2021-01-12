@@ -1,0 +1,55 @@
+{
+  "systemName": "Lift",
+  "systemDescription": "Fast and easy learning.",
+  "logo": "assets/launch-learning-logo.svg",
+  "icon": "assets/launch-learning-icon.svg",
+  "welcomeHeader": "Welcome to Lift",
+  "welcomeLead": "Fast and easy learning.",
+  "welcomeTextColor": "white",
+  "backgroundImage": "assets/launch-learning-bg.jpg",
+  "backgroundColorOpacity": 0.65,
+  "backgroundColor": "black",
+  "publicCatalogs": false,
+  "catalogs": [
+    {
+      "name": "Default",
+      "url": "assets/launch-learning-example-courses.json"
+    },
+    {
+      "name": "Launch Learning",
+      "url": "https://courses.launchlearning.io/courses.json"
+    }
+  ],
+  "lrsUrl": "https://lrs-demo.launchlearning.io/xapi/",
+  "categories": {
+    "health": {
+      "name": "Health",
+      "icon": "notes-medical"
+    },
+    "fitness": {
+      "name": "Fitness",
+      "icon": "walking"
+    }
+  },
+  "autoLogin": true,
+  "providers": [
+    {
+      "type": "GOOGLE",
+      "name": "Google",
+      "buttonLabel": "Sign in with Google",
+      "clientId": ""
+    },
+    {
+      "type": "MICROSOFT",
+      "name": "Microsoft",
+      "buttonLabel": "Sign in with Microsoft",
+      "clientId": ""
+    },
+    {
+      "type": "FACEBOOK",
+      "name": "Facebook",
+      "buttonLabel": "Continue with Facebook",
+      "clientId": ""
+    }
+  ]
+}
